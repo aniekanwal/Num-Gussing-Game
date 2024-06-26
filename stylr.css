@@ -1,0 +1,62 @@
+*{
+    padding: 0px;
+    margin: 0px;}
+
+body{
+    background-image: url(back.webp);
+  margin: 10rem auto;
+  height:50vh;
+  justify-content: center;
+  display: flex;
+}
+h1 {
+  font-size: 1.5rem;
+  color: blueviolet;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding: 2px;
+}
+p{
+  color: rgb(158, 18, 88);
+  font-family: 'Times New Roman', Times, serif;
+  padding: 2px;
+}
+
+label{
+  color: brown;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.guessSubmit{
+  border-radius: 0%;
+  color: gray;
+  background-color: aqua;
+  outline: auto;
+}
+input{
+  color: gray;
+  background-color: antiquewhite;
+  outline-style: auto;
+border-radius: 0%;
+}
+
+.lastResult {
+   color: rgb(156, 136, 136);
+   padding: 3px;
+}
+button {
+  margin-left:3rem ;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: medium;
+  color: blueviolet;
+  outline-color: burlywood;
+  background-color: rgb(196, 139, 148);
+  height: 15vh; 
+  width: 17vw;
+  padding: 10px;
+  margin-top: 2rem;
+
+}
+
+
+
+
+
